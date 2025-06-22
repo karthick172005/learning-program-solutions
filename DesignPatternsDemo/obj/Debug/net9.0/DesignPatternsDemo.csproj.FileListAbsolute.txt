@@ -1,0 +1,4 @@
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\obj\Debug\net9.0\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\obj\Debug\net9.0\DesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\obj\Debug\net9.0\DesignPatternsDemo.AssemblyInfo.cs
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\obj\Debug\net9.0\DesignPatternsDemo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.exe
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.deps.json
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.pdb
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\refint\FactoryMethodPattern.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.pdb
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\DesignPatternsDemo\FactoryMethodPattern\obj\Debug\net9.0\ref\FactoryMethodPattern.dll

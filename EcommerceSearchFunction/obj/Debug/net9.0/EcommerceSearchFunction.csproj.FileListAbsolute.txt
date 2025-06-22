@@ -1,0 +1,14 @@
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\bin\Debug\net9.0\EcommerceSearchFunction.exe
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\bin\Debug\net9.0\EcommerceSearchFunction.deps.json
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\bin\Debug\net9.0\EcommerceSearchFunction.runtimeconfig.json
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\bin\Debug\net9.0\EcommerceSearchFunction.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\bin\Debug\net9.0\EcommerceSearchFunction.pdb
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.AssemblyInfoInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.AssemblyInfo.cs
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\refint\EcommerceSearchFunction.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.pdb
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\EcommerceSearchFunction.genruntimeconfig.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\EcommerceSearchFunction\obj\Debug\net9.0\ref\EcommerceSearchFunction.dll

@@ -1,0 +1,14 @@
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.exe
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.deps.json
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.runtimeconfig.json
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.pdb
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\refint\FinancialForecasting.dll
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.pdb
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\karthick R\OneDrive\Desktop\handson\week-1\FinancialForecasting\obj\Debug\net9.0\ref\FinancialForecasting.dll
